@@ -1,2 +1,2 @@
 # CCT
-Test site for tracking progress in Pathfinder RPG campaign Curse of the Crimosn Throne (italian)
+Test [site](https://layeel.github.io/CCT) for tracking progress in Pathfinder RPG campaign Curse of the Crimosn Throne (italian).
