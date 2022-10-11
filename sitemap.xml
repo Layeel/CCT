@@ -2,26 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Layeel.github.io/CCT/</loc>
-    <priority>0</priority>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/ileosa/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/pages/jasan/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/zellara/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/pages/neolandus/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/pages/trinia/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/005-ira-giusti/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/pages/vencarlo/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/capitoli-precedenti/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/posts/parte1/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/010-il-richiamo-di-cthulhu/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/posts/richiamino-su-ileosavencarloneolandus/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/neolandus/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/vencarlo/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/015-cyberpunk/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/020-altre-campagne-pf1/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/025-witcher/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/030-the-one-ring/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/035-sine-requie/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/bestiario/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/040-pf2e/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/050-dnd5e/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/055-coriolis/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/prossima-campagna/045-il-signore-degli-anelli/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/cressida/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/mille-ossa/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/jasan/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/shoanti/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/glorio/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/amin/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/sabina/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/bestiario/lupo-grosso/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/bestiario/lupo/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/capitoli-precedenti/mtc1/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/capitoli-precedenti/mtc2/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/capitoli-precedenti/mtc3/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/grau/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/imperatore/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/meliya/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/togomir/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/trinia/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/personaggi/yala/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/apprensura/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/harse/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/janderhoff/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/kaer-maga/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/sirathu/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/terre-cineree/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/atlante/tumuli-kallow/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/una-storia-di-ceneri/timeline/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/menu/index/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/categories/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/pages/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/posts/</loc>
+    <loc>https://Layeel.github.io/CCT/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/menu/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/tags/</loc>
   </url>
