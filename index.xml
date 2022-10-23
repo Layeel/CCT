@@ -44,22 +44,22 @@ Ambientazione # L&amp;rsquo;ambientazione de Il Richiamo di Cthulhu è una versi
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</guid>
-      <description>Terre cineree # Tutto brullo, rocce e siccità.
-By far the least hospitable landscape in Varisia, the Cinderlands have been written off as worthless by most of the region’s residents—fit only for the crazed Shoanti barbarians displaced over the centuries by immigration from Cheliax. Yet such views are shortsighted, for within the Cinderlands’ borders lurks a surprising display of life and geologic diversity. These badlands are rugged, inhospitable terrain formed by long periods of drought and heavy wind erosion.</description>
-    </item>
-    
-    <item>
       <title>Neolandus Kalepopolis</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/neolandus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/neolandus/</guid>
       <description>Neolandus Kalepopolis # Siniscalco precedente e comandante della Compagnia Nera, scomparso poco dopo aver accompagnato i PG da Devargo. Rapito dagli Arkona perché li spalleggiase nella loro pretesa al trono, come salvatori di korvisa contrapposti a Ileosa. Liberato dai nostri eroi e portato in salvo (auspicabilmente) ad Harse.</description>
+    </item>
+    
+    <item>
+      <title>Terre cineree</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</guid>
+      <description>Terre cineree # La pianura riarsa dal sole delle Brughiere Storval conosciuta come Lande Cineree è forse il luogo più inospitale della Varisia. Questa terra di sabbia e cenere sembra un luogo dov&amp;rsquo;è difficile trovare qualunque tipo di vita, ma è casa di un numero di persone e di creature che combattono contro il caldo e contro le Ventobraci.
+Geografia # Le Lande Cineree sono l&amp;rsquo;unica regione che geograficamente si trova ai piedi delle Brughiere Storval.</description>
     </item>
     
     <item>
@@ -186,12 +186,22 @@ TBD</description>
     </item>
     
     <item>
+      <title>19 ottobre 2022</title>
+      <link>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221019/</guid>
+      <description>Finito il combattimento con la druida mezz&amp;rsquo;elfa cacciatrice di taglie. Siete arrivati a Kaer Maga, città di rifugiati ed emarginati. Probabilmente la pista principale che va verso est porta ai Tumuli Kallow.
+Sessione # Combattimento # Avete eliminato Yala, la cacciatrice di taglie messa sulle vostre tracce da Ileosa. Un branco di lupi stava per attaccarvi, ma alla morte di Yala è tornato verso la pianura, il suo ambiente naturale. Come se Yala li stesse aizzando contro di voi</description>
+    </item>
+    
+    <item>
       <title>4 ottobre 2010</title>
       <link>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221004/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221004/</guid>
-      <description>2022.10.04 # Riassunto # Nessun problema attraverso Janderhoff e Sirathu. Avete contattato Mille-Ossa con Inviare: vi aspetta ai Tumuli Kallow, 100 km a est di Kaer Maga. Durante la salita all&amp;rsquo;altopiano Storval, siete stati assaliti da una mezz&amp;rsquo;elfa a cavallo di un&amp;rsquo;aquila gigante.
+      <description>Nessun problema attraverso Janderhoff e Sirathu. Avete contattato Mille-Ossa con Inviare: vi aspetta ai Tumuli Kallow, 100 km a est di Kaer Maga. Durante la salita all&amp;rsquo;altopiano Storval, siete stati assaliti da una mezz&amp;rsquo;elfa a cavallo di un&amp;rsquo;aquila gigante.
 Sessione # Avete proseguito attraverso Janderhoff, pernottando al Boccale Bucato, e Sirathu, dove avete passato la notte al Veliero Volante. In entrambi i posti vi hanno detto che non hanno mai visto lupi grandi come i due della prima notte, e che trovano molto strano essere attaccati dai lupi in pianura: di solito se ne stanno fra le montagne e belli lontani dagli umani.</description>
     </item>
     
@@ -206,12 +216,13 @@ There isn’t much for foreigners in Harse, and the villagers have little to off
     </item>
     
     <item>
-      <title></title>
+      <title>Kaer Maga</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/kaer-maga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/kaer-maga/</guid>
-      <description>Kaer Maga # Punto di ingresso per le lande cineree</description>
+      <description>Kaer Maga # La più piccola delle maggiori città Varisiane è l&amp;rsquo;inusuale città di Kaer Maga, che si trova in una delle più alte parti della Catena Storval, ed è punto di ingresso per le lande cineree.
+Essa esiste come uno Stato basilare ed anarchico, con numerosi piccoli gruppi di potere che cercano di perseguire i propri interessi. La città di Kaer Maga (pronunciato kaer MAH-gah) è stata costruita all&amp;rsquo;interno delle rovine di un&amp;rsquo;antica fortezza: un anello a sei facce di 80 piedi d&amp;rsquo;altezza (circa 24 metri) di solida pietra, che si estende per più di mezzo miglio di diametro e sormontato da torri di ogni forma.</description>
     </item>
     
     <item>
@@ -323,7 +334,7 @@ Non male la taverna &amp;ldquo;Il Veliero Volante&amp;rdquo;, così chiamata da 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/220929_2/</guid>
-      <description>Parte 1 # 2022.09.29 # Riassunto # Per strada, dei lupi vi hanno molestato
+      <description>Per strada, dei lupi vi hanno molestato
 Viaggio # Avete cavalli da guerra, da soma e provviste (grazie Jasan) per 4 settimane. Contate di arrivare in 5 giorni a Kaer Maga, punto di ingresso nelle lande cineree. La prima notte, due lupi più grossi del normale sono venuti a trovarvi. Il secondo giorno, 4 lupi vi hanno seguito da lontano. La sera, un branco di 21 lupi vi ha attaccato, ne sono rimasti abbastanza pochi, dopo i fuochi (cit).</description>
     </item>
     
@@ -333,7 +344,7 @@ Viaggio # Avete cavalli da guerra, da soma e provviste (grazie Jasan) per 4 sett
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/220929/</guid>
-      <description>Parte 2 # 2022.09.29 # Riassunto # Ileosa forse in possesso di denti di Mezzanotte, zanne di un antico e malvagio Drago (leggende?). Occorre trovare il clan Shoanti del teschio, che forse sa qualcosa di tali leggende Per strada, dei lupi vi hanno molestato Racconto Neolandus # Neolandus racconta tutto quello che sa in generale.
+      <description>Ileosa forse in possesso di denti di Mezzanotte, zanne di un antico e malvagio Drago (leggende?). Occorre trovare il clan Shoanti del teschio, che forse sa qualcosa di tali leggende Per strada, dei lupi vi hanno molestato Racconto Neolandus # Neolandus racconta tutto quello che sa in generale.
 Tutti sanno che sotto Castel Korvosa ci sono stanze chiuse da tempo immemore. Alcuni (fra cui Neolandus) sanno che esistono i &amp;ldquo;denti di mezzanotte&amp;rdquo;, sacra reliquia per gli Shoanti.</description>
     </item>
     
@@ -343,7 +354,7 @@ Tutti sanno che sotto Castel Korvosa ci sono stanze chiuse da tempo immemore. Al
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/220922/</guid>
-      <description>2022.09.22 # Dopo aver avvisato Cressida, diete scappati da Vecchia Korvosa con Vencarlo e Neolandus, diretti a Harse (dove già si era rifugiata Trinia Sabor). Lì Jasan Adriel, un vecchio amico di Vencarlo, è disposto a darvi ospitalità per tutto il tempo che serve. E lì Neolandus vi racconterà tutto quello che ha scoperto su Ileosa. Lungo il tragitto:
+      <description>Dopo aver avvisato Cressida, diete scappati da Vecchia Korvosa con Vencarlo e Neolandus, diretti a Harse (dove già si era rifugiata Trinia Sabor). Lì Jasan Adriel, un vecchio amico di Vencarlo, è disposto a darvi ospitalità per tutto il tempo che serve. E lì Neolandus vi racconterà tutto quello che ha scoperto su Ileosa. Lungo il tragitto:
 Zellara predice il vostro futuro incontrate un &amp;ldquo;vecchio dalla barba bianca&amp;rdquo;, che dice di chiamarsi Tiriac, che cena e pernotta con voi e mi omaggia di interessanti nuove armi o potenziamenti alle vostre vecchie armi.</description>
     </item>
     
@@ -353,7 +364,7 @@ Zellara predice il vostro futuro incontrate un &amp;ldquo;vecchio dalla barba bi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/220928-richiamino-su-ileosavencarloneolandus/</guid>
-      <description>Richiamino su Ileosa/Vencarlo/Neolandus # All&amp;rsquo;inizio dell&amp;rsquo;avventura in v. Korvosa, la regina Ileosa ha convocato d&amp;rsquo;urgenza (mezz&amp;rsquo;ora di preavviso) un discorso pubblico, che voi avete mancato in pieno:
+      <description>All&amp;rsquo;inizio dell&amp;rsquo;avventura in v. Korvosa, la regina Ileosa ha convocato d&amp;rsquo;urgenza (mezz&amp;rsquo;ora di preavviso) un discorso pubblico, che voi avete mancato in pieno:
 La regina Ileosa sfoggia una nuova corona, adorna di zanne Epidemia sconfitta, Davaulus e i suoi (=di lui) medici erano gli unici colpevoli Togomir, mago e apprezzato (da lei) consigliere della regina, nominato siniscalco L&amp;rsquo;Ordine del chiodo è rintanato nella Cittadella Vraid, 50 km a sud di Korvosa Compagnia nera sciolta, le Vergini grigie sono nominate protettrici ufficiali di Korvosa, e Sabina Merrin è promossa Generale.</description>
     </item>
     
@@ -447,62 +458,6 @@ ignorare la durezza di un oggetto per un round Forza mitica # essere considerato
       
       <guid>https://Layeel.github.io/CCT/menu/index/</guid>
       <description> Personaggi </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/pages/jasan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/pages/jasan/</guid>
-      <description>Jasan Adriel # Owner of Blackbird Ranch in Harse</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/pages/neolandus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/pages/neolandus/</guid>
-      <description>Neolandus Kalepopolis # Siniscalco precedente e comandante della Compagnia Nera, scomparso poco dopo aver accompagnato i PG da Devargo. Rapito dagli Arkona perché li spalleggiasse nella loro pretesa al trono, come salvatori di Korvosa contrapposti a Ileosa. Liberato dai nostri eroi e portato in salvo (auspicabilmente) ad Harse.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/pages/trinia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/pages/trinia/</guid>
-      <description>Trinia Sabor # In arrivo</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/pages/vencarlo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/pages/vencarlo/</guid>
-      <description>Vencarlo # In arrivo</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/posts/parte1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/posts/parte1/</guid>
-      <description>2022.09.22 # Dopo aver avvisato Cressida, diete scappati da Vecchia Korvosa con Vencarlo e Neolandus, diretti a Harse (dove già si era rifugiata Trinia Sabor). Lì Jasan Adriel, un vecchio amico di Vencarlo, è disposto a darvi ospitalità per tutto il tempo che serve. E lì Neolandus vi racconterà tutto quello che ha scoperto su Ileosa. Lungo il tragitto:
-Zellara predice il vostro futuro incontrate un &amp;ldquo;vecchio dalla barba bianca&amp;rdquo;, che dice di chiamarsi Tiriac, che cena e pernotta con voi e mi omaggia di interessanti nuove armi o potenziamenti alle vostre vecchie armi.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/posts/richiamino-su-ileosavencarloneolandus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/posts/richiamino-su-ileosavencarloneolandus/</guid>
-      <description>Richiamino su Ileosa/Vencarlo/Neolandus # All&amp;rsquo;inizio dell&amp;rsquo;avventura in v. Korvosa, la regina Ileosa ha convocato d&amp;rsquo;urgenza (mezz&amp;rsquo;ora di preavviso) un discorso pubblico, che voi avete mancato in pieno:
-La regina Ileosa sfoggia una nuova corona, adorna di zanne Epidemia sconfitta, Davaulus e i suoi (=di lui) medici erano gli unici colpevoli Togomir, mago e apprezzato (da lei) consigliere della regina, nominato siniscalco L&amp;rsquo;Ordine del chiodo è rintanato nella Cittadella Vraid, 50 km a sud di Korvosa Compagnia nera sciolta, le Vergini grigie sono nominate protettrici ufficiali di Korvosa, e Sabina Merrin è promossa Generale.</description>
     </item>
     
   </channel>
