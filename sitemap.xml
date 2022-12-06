@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ileosa/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/ileosa/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/sessioni/mtc4/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/zellara/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/zellara/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/</loc>
   </url><url>
@@ -20,7 +20,7 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/lupo/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/neolandus/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/neolandus/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/puma-grosso/</loc>
   </url><url>
@@ -28,11 +28,11 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/lupo-grosso/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/vencarlo/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/vencarlo/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/015-cyberpunk/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/trinia/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/trinia/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/020-altre-campagne-pf1/</loc>
   </url><url>
@@ -48,11 +48,17 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/030-the-one-ring/</loc>
   </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/animale-invisibile/</loc>
+  </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/chimera/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/035-sine-requie/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/</loc>
   </url><url>
@@ -66,7 +72,9 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/045-il-signore-degli-anelli/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/cressida/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/cressida/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221130/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/sessioni/mtc4/221123/</loc>
   </url><url>
@@ -84,13 +92,23 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/kaer-maga/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/mille-ossa/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/bestiario/gigante-delle-nuvole/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/mille-ossa/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/yala/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/hargev/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/jasan/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/krojun/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ahalak/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/shadfrar/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/nalmid/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/una-vita/</loc>
   </url><url>
@@ -98,69 +116,91 @@
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/artigli-perfidi/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/shoanti-copia/</loc>
-  </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/shoanti/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/glorio/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/glorio/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/meliya/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/meliya/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/janderhoff/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/sirathu/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/amin/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/amin/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/verik/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/verik/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/grau/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/grau/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/sabina/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/sabina/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/andaisin/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/andaisin/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/bhrunilda/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/ausio/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/caydence/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/bhrunilda/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/darvayne/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/caydence/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/davaulus/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/darvayne/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/devargo/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/davaulus/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/gaedren/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/devargo/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/girrigz/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/deyanira/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/halavara/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/eodred/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/fascista/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/gaedren/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/imperatore/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/gaekhen/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/jolistina/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/girrigz/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/anarchico/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/halavara/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/marcusendrin/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/fascista/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ramoska/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/imperatore/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/rolth/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/jabbyr/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ruan/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/jolistina/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/testadicavolo/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/anarchico/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/togomir/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/laori/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/vendra/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/majenko/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/yargin/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/marcusendrin/</loc>
   </url><url>
-    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/yvicca/</loc>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/pedro/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/ramoska/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/rolth/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/ruan/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/salvatore/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/sivit/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/testadicavolo/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/togomir/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/vendra/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/venster/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/vreeg/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/yargin/</loc>
+  </url><url>
+    <loc>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/yvicca/</loc>
   </url><url>
     <loc>https://Layeel.github.io/CCT/docs/sessioni/mtc4/220929_2/</loc>
   </url><url>
