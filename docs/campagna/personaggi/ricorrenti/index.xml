@@ -25,7 +25,8 @@ Qualche mese fa, re Eodred è morto dopo lunga ed incurabile malattia, che ha re
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/zellara/</guid>
       <description>Zellara Esmeranda # Apprensore spiritico alleato dei PG
-Zellara</description>
+Zellara Esmeranda
+Zellara Esmeranda</description>
     </item>
     
     <item>
@@ -102,7 +103,8 @@ Amin sviluppa una tenera amicizia con Veleno, con il quale condivide lezioni di 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/fascista/</guid>
-      <description>TBD</description>
+      <description>Il fascista # Assiduo frequentatore della locanda dei tre anelli, esperto politologo con ottime fonti, si distingue per le sue posizioni estremamente favorevoli nei confronti dell&amp;rsquo;ordine costituito, in particolare dopo la morte di re Eodred e il nuovo corso imposto dalla Regina Ileosa.
+Relazioni con i PG # I PG hanno incontrato più volte l&amp;rsquo;anarchico e il fascista presso la locanda dei 3 anelli, a Korvosa. Spesso le loro lucide analisi, seppur fazione, hanno aiutato i personaggi nell&amp;rsquo;avere il polso della situazione.</description>
     </item>
     
     <item>
@@ -112,7 +114,7 @@ Amin sviluppa una tenera amicizia con Veleno, con il quale condivide lezioni di 
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/imperatore/</guid>
       <description>Pilts Swastel, l&amp;rsquo;Imperatore (di Vecchia Korvosa) # Sedicente imperatore di Vecchia Korvosa
-xxx</description>
+Pilts Swastel</description>
     </item>
     
     <item>
@@ -121,9 +123,30 @@ xxx</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/anarchico/</guid>
-      <description>L&amp;rsquo;anarchico e il fascista # TBD
-Img: Ros &amp;amp; Guil? (e di conseguenza, una voce unica per entrambi)
-xxx</description>
+      <description>L&amp;rsquo;anarchico # Assiduo frequentatore della locanda dei tre anelli, esperto politologo con ottime fonti, si distingue per le sue posizioni estremamente critiche nei confronti dell&amp;rsquo;ordine costituito, in particolare dopo la morte di re Eodred e il nuovo corso imposto dalla Regina Ileosa.
+Relazioni con i PG # I PG hanno incontrato più volte l&amp;rsquo;anarchico e il fascista presso la locanda dei 3 anelli, a Korvosa. Spesso le loro lucide analisi, seppur fazione, hanno aiutato i personaggi nell&amp;rsquo;avere il polso della situazione.</description>
+    </item>
+    
+    <item>
+      <title>Marialuna Rottermeier</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/marialuna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/marialuna/</guid>
+      <description>Giovane sposa di McKon, e figlia di Mariastella, è stata rapita da una banda di hobgoblin capitanati da Kreetk, per conto di non si sa chi&amp;hellip;
+Marialuna Rottermeier
+Rapporto con i PG # Era prigioniera sotto il castello Arkona, nel Labirinto Vivificato, ed è stata liberata dai PG mentre mettevano a ferro e fuoco il complesso per trovare Vencarlo e Neolandus. Adesso madre e figlia riposano ad Harse, relativamente al sicuro lontano da Korvosa.</description>
+    </item>
+    
+    <item>
+      <title>Mariastella Rottermeier</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/mariastella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/ricorrenti/mariastella/</guid>
+      <description>Rispettata (temuta?) veneranda istitutrice molto nota alla nobiltà di Korvosa. E madre di Marialuna.
+Mariastella Rottermeier
+Dopo una gioventù scapestrata, in cui ha affinato le sue arti meno nobili, si è trovata costretta a ricominciare una vita in un&amp;rsquo;altra città, e ha scoperto che la sua naturalezza nelle lingue poteva essere messa a frutto in maniera più legale&amp;hellip; E negli ultimi 30 anni si è distinta per insegnare geografia e lingue straniere (e alcune missioni diplomatiche) a quasi tre generazioni di giovani korvosiani dissoluti.</description>
     </item>
     
   </channel>
