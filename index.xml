@@ -50,6 +50,17 @@ Ambientazione # L&amp;rsquo;ambientazione de Il Richiamo di Cthulhu è una versi
     </item>
     
     <item>
+      <title>Assassino Mantide Rossa</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/bestiario/mantide-rossa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/bestiario/mantide-rossa/</guid>
+      <description>La mantide rossa è un gruppo di sicari, di base da qualche parte in Varisia (così si dice) che opera in tutta la zona del mare interno.
+Li avete incontrati a casa di Vencarlo, e anche Neolandus vi ha raccontato che gli assassini della mantide rossa lo stavano cacciando per conto della regina.
+E all&amp;rsquo;acropoli dei guardaschiavi ne avete trovato altri, decisamente più forti dei precedenti&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Lupo Normale</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/bestiario/lupo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -78,22 +89,11 @@ Neolandus Kalepopolis</description>
     </item>
     
     <item>
-      <title>Tentacolo</title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/bestiario/mantide-rossa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/bestiario/mantide-rossa/</guid>
-      <description>La mantide rossa è un gruppo di sicari, di base da qualche parte in Varisia (così si dice) che opera in tutta la zona del mare interno.
-Li avete incontrati a casa di Vencarlo, e anche Neolandus vi ha raccontato che gli assassini della mantide rossa lo stavano cacciando per conto della regina.
-E all&amp;rsquo;acropoli dei guardaschiavi ne avete trovato altri, decisamente più forti dei precedenti&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Terre cineree</title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</link>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/_terre-cineree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terre-cineree/</guid>
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/_terre-cineree/</guid>
       <description>Terre cineree # La pianura riarsa dal sole delle Brughiere Storval conosciuta come Lande Cineree è forse il luogo più inospitale della Varisia. Questa terra di sabbia e cenere sembra un luogo dov&amp;rsquo;è difficile trovare qualunque tipo di vita, ma è casa di un numero di persone e di creature che combattono contro il caldo e contro le Ventobraci.
 Geografia # Le Lande Cineree sono l&amp;rsquo;unica regione che geograficamente si trova ai piedi delle Brughiere Storval.</description>
     </item>
@@ -147,15 +147,6 @@ Ufficialmente, Trinia è l&amp;rsquo;assassina di re Eodred, da lei avvelenato d
       <guid>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/020-altre-campagne-pf1/</guid>
       <description>Altre campagne PF1 # Pesca da pagina Paizo: ci dovrebbe essere la pagina riassuntiva dell&amp;rsquo;adventure path che le descrive tutte, poche righe ognuna. Occhio alla traduzione in italiano&amp;hellip;
 Strange Aeons === Cthulhu, grandi antichi Carrion crawler === Ravenloft, horror Il ritorno dei signori delle rune # La Saga Pathfinder - Ritorno dei Signori delle Rune inizia all’ombra dei pini della città portuale di Baia di Roderich. Dissapori e pettegolezzi caratterizzano la vita di qualsiasi piccola città, e la Baia di Roderich non fa differenza; la comunità ha avuto i suoi problemi in passato con i pirati di Riddleport e lo spirito inquieto del suo fondatore, ed adesso nuove tensioni stanno ardendo come tizzoni sotto la cenere.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/tumuli-kallow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/tumuli-kallow/</guid>
-      <description>Tumuli Kallow # 100 km ad est di Kaer Maga, lì vi aspetta Mille Ossa. E&amp;rsquo; il luogo in cui, da 300 anni, tutte le tribù Shoanti mandano a seppellire i loro morti. Sono custoditi dalla tribu del teschio, gli Skoan-Quah. L&amp;rsquo;accampamento, fra cui la tenda che accoglie i PG, è situato sul lato occidentale della valle, altrimenti ricoperta di cumuli di pietre sotto cui i guerrieri Shoanti riposano per l&amp;rsquo;eternità.</description>
     </item>
     
     <item>
@@ -259,12 +250,66 @@ Tredici anni prima, durante il D-Day, ogni persona morta, per qualche inspiegabi
     </item>
     
     <item>
+      <title>Bestio Taurino</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/bestiario/bestiotaurino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/bestiario/bestiotaurino/</guid>
+      <description>Questa orrenda creatura ha una testa da cinghiale con piccole corna, un corpo taurino tozzo, irto di aculei e zoccoli caprini sulle zampe..
+bestia magica grande, puzza tantissimo, e ha anche una specie di soffio velenoso&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Boule</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/boule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/boule/</guid>
+      <description>Boule, capo della Società Cerulea # La Società Cerulea è la gilda dei ladri di Korvosa.
+Boule
+Rapporto con i PG # Avete recuperato un bel po&amp;rsquo; di documenti che riguardano la società da Palazzo Arkona, mentre cercavate Vencarlo, Neolandus e la Signora McKon.
+Vi ha proposto di infiltrarsi nella vecchia prigione di massima sicurezza, volta Testadimorto, ora anche quartier generale delle Vergini Grigie e delle Mantidi Rosse, e di assestare un bel colpo, possibilmente fatale, a queste due organizzazioni della Regina: in fondo il nemico del mio nemico è mio amico&amp;hellip; E c&amp;rsquo;è anche il benestare, obtorto collo, di Cressida.</description>
+    </item>
+    
+    <item>
+      <title>Darb Tuttle</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/darbtuttle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/darbtuttle/</guid>
+      <description>Arcibanchiere Darb Tuttle, capo della chiesa di Abadar a Korvosa # E quindi capo di Darnelius, gerarchicamente&amp;hellip;
+Darb Tuttle
+Rapporto con i PG # Ha convocato Darnelius per l&amp;rsquo;incontro con Cressida e Boule riguardo l&amp;rsquo;incursione a Testadimorto.</description>
+    </item>
+    
+    <item>
       <title>DnD 5E &#43; Ambientazioni</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/050-dnd5e/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Layeel.github.io/CCT/docs/campagna/prossima-campagna/050-dnd5e/</guid>
       <description>DnD 5a edizione + ambientazioni # Spelljammer Dragonlance Eberron Ravenloft TBD</description>
+    </item>
+    
+    <item>
+      <title>Manananggal</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/bestiario/manananggal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/bestiario/manananggal/</guid>
+      <description>Questo torso femminile si agita nell&amp;rsquo;aria con ali da pipistrello, la sua faccia piena di zanne è una maschera carica d&amp;rsquo;odio.
+Non morto, ma niente di particolare&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mogmora</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/mogmora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/personaggi/mogmora/</guid>
+      <description>Mogmora, oste della Taverna delle Fogne # Accogliente e generoso goblin, destinato a donare generi di conforto mentre si attende che si sbrighino affari alla Testadimorto.
+Mogmora
+Rapporto con i PG # Lo avete incontrato appena messo piede nella volta Testadimorto, o meglio all&amp;rsquo;inizio del passaggio che porta alla volta. Vi ha offerto da bere dalla sua nutrita cantina (Birra delle Fogne, Ascella di Goblin e una bevanda fatta con le mele&amp;hellip;), e poi si è teletrasportato via: un po&amp;rsquo; strano, per un goblin&amp;hellip;</description>
     </item>
     
     <item>
@@ -295,6 +340,25 @@ TBD</description>
       <description>Cressida Kroft # Leader della guardia Korvosiana, ultimo baluardo di giustizia a Korvosa, dopo le Vergini Grigie, i medici di Davaulus, la chiusura della compagnia del Chiodo e delle Guardien nere.
 Cressida Kroft
 Rapporti con i PG # I PG la hanno aiutata con alcune missioni chiave quando Korvosa era nel tourbillon dei tumulti a seguito della morte di Re Eodred II, e anche quando si è trattato di debellare il Velo di Sangue e scoprire il mistero dietro la malattia.</description>
+    </item>
+    
+    <item>
+      <title>12 aprile 2023</title>
+      <link>https://Layeel.github.io/CCT/docs/sessioni/mtc4/230412/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/230412/</guid>
+      <description>Bestio taurino, via dai piedi. Tramite passaggio segreto, siete entrati nel comprensorio Testadimorto, in particolare nella Taverna delle Fogne, dove l&amp;rsquo;oste Mogmora, simpatico goblin, vi offre da bere, e poi scompare, puff!! Un contorto passaggio, chiuso da una trappola magica &amp;ldquo;a forma di nebbiolina opaca&amp;rdquo; vi porta in una stanza illuminata da funghi sotterranei, dove due arpie senza gambe vi assalgono&amp;hellip;
+Dungeon Testadimorto: stanze E1,E2,E3 # Stanza E1 - Ingresso &amp;ldquo;abbandonato&amp;rdquo; delle fogne # Con pochi colpi ben assestati, vi siete liberati del bestio taurino fetido.</description>
+    </item>
+    
+    <item>
+      <title>5 aprile 2023</title>
+      <link>https://Layeel.github.io/CCT/docs/sessioni/mtc4/230405/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/sessioni/mtc4/230405/</guid>
+      <description>Rituale benedizione degli antenati -&amp;gt; A Scarwall (dove Kazavon è stato sconfitto) c&amp;rsquo;è del buono, e 4 nemici degni di nota. Teleconvocati da Darb Tuttle, capo di Nik: occasione d&amp;rsquo;oro per &amp;ldquo;depotenziare&amp;rdquo; Vergini Grigie e Mantidi Rosse in un colpo solo. Grazie ai buoni uffici di Boule, capo gella gilda dei ladri, riuscite ad entrare nella volta Testa di Morto, il QG sotterraneo delle VG e MR. E, proprio prima dell&amp;rsquo;ingresso, un puzzolente bestio taurino con aculei si intrattiene amabilmente con voi.</description>
     </item>
     
     <item>
@@ -472,11 +536,11 @@ Sessione # Avete proseguito attraverso Janderhoff, pernottando al Boccale Bucato
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/harse/</link>
+      <title>Harse</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/a_harse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/harse/</guid>
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/a_harse/</guid>
       <description>Harse # Harse is a narrow village located on a strip of land at the point where Sarwin River empties into Falcon River. The village itself consists of just a few dozen buildings, including a church dedicated to Erastil, two general stores, two taverns (the Spotted Pony and the somewhat dingier Nag Bag), a large inn (Rancher’s Retreat), and a bustling ferry service.
 There isn’t much for foreigners in Harse, and the villagers have little to offer powerful adventurers apart from rumors.</description>
     </item>
@@ -495,16 +559,6 @@ Rincorre le gonnelle (da riscrivere)
 Famoso per # Aver capito come debellare l&amp;rsquo;epidemia di Velo di sangue
 Aver scoperto Vendra (la venditrice di falsi elisir)
 Aver salvato i compagni dalla morte più volte grazie alle sue potenti cure</description>
-    </item>
-    
-    <item>
-      <title>Kaer Maga</title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/kaer-maga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/kaer-maga/</guid>
-      <description>Kaer Maga # La più piccola delle maggiori città Varisiane è l&amp;rsquo;inusuale città di Kaer Maga, che si trova in una delle più alte parti della Catena Storval, ed è punto di ingresso per le lande cineree.
-Essa esiste come uno Stato basilare ed anarchico, con numerosi piccoli gruppi di potere che cercano di perseguire i propri interessi. La città di Kaer Maga (pronunciato kaer MAH-gah) è stata costruita all&amp;rsquo;interno delle rovine di un&amp;rsquo;antica fortezza: un anello a sei facce di 80 piedi d&amp;rsquo;altezza (circa 24 metri) di solida pietra, che si estende per più di mezzo miglio di diametro e sormontato da torri di ogni forma.</description>
     </item>
     
     <item>
@@ -558,15 +612,6 @@ Alternare ira e abulia senza soluzione di continuità&amp;hellip;</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/picco-del-gelo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/picco-del-gelo/</guid>
-      <description>Picco del gelo # Dopo un&amp;rsquo;ascesa di circa due giorni e mezzo, si giunge alla valle alla base del picco de gelo. L&amp;rsquo;arrivo è da ovest, la valle è a forma di c pressoché perfetta, a circondare il picco vero e proprio, una guglia che si innalza ancora per 500 metri. La valle è circondata a nord, sud ed ovest da montagne, seppur più basse del picco (fra 100 e 200 metri più alte della valle), mentre il lato est termina con un precipizio, simile a quello che separa le terre cineree dalla parte bassa di Varisia (come a Kaer Maga).</description>
-    </item>
-    
-    <item>
       <title>Damaia</title>
       <link>https://Layeel.github.io/CCT/docs/pg/damaia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -583,50 +628,22 @@ Essere morta nell&amp;rsquo;estremo tentativo, peraltro riuscito, di uccidere La
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/acropoli-guardaschiavi/</link>
+      <title>Sirathu</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/b_sirathu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/acropoli-guardaschiavi/</guid>
-      <description>Acropoli dei guardaschiavi # In superficie, ciò che rimane dell&amp;rsquo;acropoli è una torre parzialmente crollata recante il segno della stella a 7 punte: il Sihedron. Subito accanto al simbolo, una doppia porta in pietra dai battenti larghi 6 metri è socchiusa e si apre su una polverosa rampa di scale che scende nel cuore dell&amp;rsquo;acropoli. La porta è sempre stata così, aperta e sinistramente invitante. Persino i tentativi da parte degli Shoanti di chiuderla si sono infine rivelati fallimentari per ragioni misteriose.</description>
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/b_sirathu/</guid>
+      <description>Sirathu (population 440) # The poorest of Korvosa’s holdings, Sirathu only recently came under the city’s control, as Korvosa wrested it from Kaer Maga with the Treaty of Sirathu in 4663.
+Non male la taverna &amp;ldquo;Il Veliero Volante&amp;rdquo;, così chiamata da una leggenda che il nonno raccontava al padrone quand&amp;rsquo;era piccolo.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/guadodifiamma/</link>
+      <title>Janderhoff</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ba_janderhoff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/guadodifiamma/</guid>
-      <description>Guado di Fiamma # Un terrapieno lungo un centinaio di metri e largo la metà, circa 20 metri più in alto del livello del fiume, è l&amp;rsquo;accampamento del Clan del Sole. Qui vivono una cinquantina di Shoanti, in una quindicina abbondante di tende, fra cui Klar Pronto, il capo Clan, suo nipote Krojun, e uno Sciamano del Sole. Le guardie che vi hanno accolto vi suggerisco si seguire con la massima precisione i loro passi, nell&amp;rsquo;avvicinarvi al villaggio, come se ci fossero delle pericolose trappole a difesa dell&amp;rsquo;accampamento.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/roccialampo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/roccialampo/</guid>
-      <description>Roccialampo # Piccola mesa a circa 20 minuti a piedi ad est di Guado di Fiamma, è il sito in cui i giovani Shoanti sostengono la prova del totem.
-Roccialampo</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/casa-della-luna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/casa-della-luna/</guid>
-      <description>Casa della Luna # Un santuario fatto di pietra dai riflessi argentati, la Casa della Luna è un tempio dedicato a Desna (divinità maggiore della libertà e del viaggio), eretto prima che arrivassero i Thassiloniani (quelli che hanno eretto l&amp;rsquo;acropoli dei guardaschiavi). E&amp;rsquo; una delle poche costruzioni delle terre cineree che non sia stata influenzata dall&amp;rsquo;arrivo di Thassilon.
-Il clan nomade della Luna ci si ferma almeno una volta all&amp;rsquo;anno (divinità della libertà e del viaggio), e spesso deve essere un minimo allestito e ripulito, ragion per cui un gruppo di vergini della luna va in avanscoperta a preparare il terreno.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terreni-fauci-cineree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/terreni-fauci-cineree/</guid>
-      <description>Terreni di Caccia di Fauci Cineree # Vasta pianura costellata da tanti coni simili a piccoli vulcani&amp;hellip; Ampie scie nel terreno mostrano chiaramente dove Fauci Cineree sia passato.</description>
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ba_janderhoff/</guid>
+      <description>Janderhoff # The dwarves of the Sky Citadel of Janderhoff have lived in the region since they emerged here during their Quest for Sky, yet have never expanded significantly beyond Janderhoff’s walls. Most of the stone and metal used by Korvosa comes from Janderhoff, and in return the dwarves depend heavily on Korvosa for luxury goods, exotic foods, and other nonessentials. Janderhoff can survive without Korvosa’s support, although in less comfort.</description>
     </item>
     
     <item>
@@ -641,6 +658,16 @@ Spaventosamente forte e robusto. Per il resto, comunque sopra la media degli uma
 Lancia incantesimi
 Intercetta e lancia rocce
 Descrizione # Il colore pelle dei giganti delle nuvole varia dal bianco latte al blu polvere.</description>
+    </item>
+    
+    <item>
+      <title>Kaer Maga</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/c_kaer-maga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/c_kaer-maga/</guid>
+      <description>Kaer Maga # La più piccola delle maggiori città Varisiane è l&amp;rsquo;inusuale città di Kaer Maga, che si trova in una delle più alte parti della Catena Storval, ed è punto di ingresso per le lande cineree.
+Essa esiste come uno Stato basilare ed anarchico, con numerosi piccoli gruppi di potere che cercano di perseguire i propri interessi. La città di Kaer Maga (pronunciato kaer MAH-gah) è stata costruita all&amp;rsquo;interno delle rovine di un&amp;rsquo;antica fortezza: un anello a sei facce di 80 piedi d&amp;rsquo;altezza (circa 24 metri) di solida pietra, che si estende per più di mezzo miglio di diametro e sormontato da torri di ogni forma.</description>
     </item>
     
     <item>
@@ -867,6 +894,15 @@ Gli Arkona sono stati uccisi alcuni anni fa dai genitori di Vimanda e Bahor: i R
     </item>
     
     <item>
+      <title>Tumuli Kallow</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/e_tumuli-kallow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/e_tumuli-kallow/</guid>
+      <description>Tumuli Kallow # 100 km ad est di Kaer Maga, lì vi aspetta Mille Ossa. E&amp;rsquo; il luogo in cui, da 300 anni, tutte le tribù Shoanti mandano a seppellire i loro morti. Sono custoditi dalla tribu del teschio, gli Skoan-Quah. L&amp;rsquo;accampamento, fra cui la tenda che accoglie i PG, è situato sul lato occidentale della valle, altrimenti ricoperta di cumuli di pietre sotto cui i guerrieri Shoanti riposano per l&amp;rsquo;eternità.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/tekrakai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -889,22 +925,12 @@ Gli Arkona sono stati uccisi alcuni anni fa dai genitori di Vimanda e Bahor: i R
     </item>
     
     <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/janderhoff/</link>
+      <title>Picco del Gelo</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/f_picco-del-gelo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/janderhoff/</guid>
-      <description>Janderhoff # The dwarves of the Sky Citadel of Janderhoff have lived in the region since they emerged here during their Quest for Sky, yet have never expanded significantly beyond Janderhoff’s walls. Most of the stone and metal used by Korvosa comes from Janderhoff, and in return the dwarves depend heavily on Korvosa for luxury goods, exotic foods, and other nonessentials. Janderhoff can survive without Korvosa’s support, although in less comfort.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/sirathu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/sirathu/</guid>
-      <description>Sirathu (population 440) # The poorest of Korvosa’s holdings, Sirathu only recently came under the city’s control, as Korvosa wrested it from Kaer Maga with the Treaty of Sirathu in 4663.
-Non male la taverna &amp;ldquo;Il Veliero Volante&amp;rdquo;, così chiamata da una leggenda che il nonno raccontava al padrone quand&amp;rsquo;era piccolo.</description>
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/f_picco-del-gelo/</guid>
+      <description>Picco del gelo # Dopo un&amp;rsquo;ascesa di circa due giorni e mezzo, si giunge alla valle alla base del picco de gelo. L&amp;rsquo;arrivo è da ovest, la valle è a forma di c pressoché perfetta, a circondare il picco vero e proprio, una guglia che si innalza ancora per 500 metri. La valle è circondata a nord, sud ed ovest da montagne, seppur più basse del picco (fra 100 e 200 metri più alte della valle), mentre il lato est termina con un precipizio, simile a quello che separa le terre cineree dalla parte bassa di Varisia (come a Kaer Maga).</description>
     </item>
     
     <item>
@@ -920,6 +946,15 @@ Amin sviluppa una tenera amicizia con Veleno, con il quale condivide lezioni di 
     </item>
     
     <item>
+      <title>Acropoli dei guardaschiavi</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ga_acropoli-guardaschiavi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ga_acropoli-guardaschiavi/</guid>
+      <description>Acropoli dei guardaschiavi # In superficie, ciò che rimane dell&amp;rsquo;acropoli è una torre parzialmente crollata recante il segno della stella a 7 punte: il Sihedron. Subito accanto al simbolo, una doppia porta in pietra dai battenti larghi 6 metri è socchiusa e si apre su una polverosa rampa di scale che scende nel cuore dell&amp;rsquo;acropoli. La porta è sempre stata così, aperta e sinistramente invitante. Persino i tentativi da parte degli Shoanti di chiuderla si sono infine rivelati fallimentari per ragioni misteriose.</description>
+    </item>
+    
+    <item>
       <title>Verik Vancaskerkin</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/verik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -928,6 +963,16 @@ Amin sviluppa una tenera amicizia con Veleno, con il quale condivide lezioni di 
       <description>Verik Vancaskerkin # Leader dei Ragazzi del Macello
 Verik Vancaskerkin
 Rapporti con i PG # I PG lo hanno incontrato quando, a capo della sua banda, stava accumulando carne e verdure per la sua amata Meliya. In realtà, Meliya lo usava per spiare la guardia Korvosiana, e il cibo messo da parte serviva per nutrire l&amp;rsquo;esercito con cui gli Arkona speravano di rovesciare Ileosa. In più, la sua banda si dedicava, a sua insaputa, ad attività trasversali come mercenari.</description>
+    </item>
+    
+    <item>
+      <title>Casa della Luna</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gb_casa-della-luna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gb_casa-della-luna/</guid>
+      <description>Casa della Luna # Un santuario fatto di pietra dai riflessi argentati, la Casa della Luna è un tempio dedicato a Desna (divinità maggiore della libertà e del viaggio), eretto prima che arrivassero i Thassiloniani (quelli che hanno eretto l&amp;rsquo;acropoli dei guardaschiavi). E&amp;rsquo; una delle poche costruzioni delle terre cineree che non sia stata influenzata dall&amp;rsquo;arrivo di Thassilon.
+Il clan nomade della Luna ci si ferma almeno una volta all&amp;rsquo;anno (divinità della libertà e del viaggio), e spesso deve essere un minimo allestito e ripulito, ragion per cui un gruppo di vergini della luna va in avanscoperta a preparare il terreno.</description>
     </item>
     
     <item>
@@ -942,6 +987,34 @@ Born in Sandpoint over on Varisia’s west coast, Grau fled an alcoholic and abu
     </item>
     
     <item>
+      <title>Terreni di Caccoa di Fauci Cineree</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gc_terreni-fauci-cineree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gc_terreni-fauci-cineree/</guid>
+      <description>Terreni di Caccia di Fauci Cineree # Vasta pianura costellata da tanti coni simili a piccoli vulcani&amp;hellip; Ampie scie nel terreno mostrano chiaramente dove Fauci Cineree sia passato.</description>
+    </item>
+    
+    <item>
+      <title>Guado di Fiamma</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gd_guadodifiamma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/gd_guadodifiamma/</guid>
+      <description>Guado di Fiamma # Un terrapieno lungo un centinaio di metri e largo la metà, circa 20 metri più in alto del livello del fiume, è l&amp;rsquo;accampamento del Clan del Sole. Qui vivono una cinquantina di Shoanti, in una quindicina abbondante di tende, fra cui Klar Pronto, il capo Clan, suo nipote Krojun, e uno Sciamano del Sole. Le guardie che vi hanno accolto vi suggerisco si seguire con la massima precisione i loro passi, nell&amp;rsquo;avvicinarvi al villaggio, come se ci fossero delle pericolose trappole a difesa dell&amp;rsquo;accampamento.</description>
+    </item>
+    
+    <item>
+      <title>Roccialampo</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ge_roccialampo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/ge_roccialampo/</guid>
+      <description>Roccialampo # Piccola mesa a circa 20 minuti a piedi ad est di Guado di Fiamma, è il sito in cui i giovani Shoanti sostengono la prova del totem.
+Roccialampo</description>
+    </item>
+    
+    <item>
       <title>Sabina Merrin</title>
       <link>https://Layeel.github.io/CCT/docs/campagna/personaggi/parti-precedenti/sabina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -950,6 +1023,17 @@ Born in Sandpoint over on Varisia’s west coast, Grau fled an alcoholic and abu
       <description>Sabina Merrin # Leader delle vergini grigie
 Sabina Merrin
 Rapporti con i PG # I PG la hanno incontrata di sfuggita all&amp;rsquo;ininzio del&amp;rsquo;avventura, quando la Regina Ileosa ha concesso loro udienza. Classico militare rigido e distaccato, con probabilmente un&amp;rsquo;opinione un po&amp;rsquo; troppo alta del suo Corpo e un po&amp;rsquo; troppo bassa del resto del mondo.</description>
+    </item>
+    
+    <item>
+      <title>Volta Testadimorto</title>
+      <link>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/h_testadimorto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Layeel.github.io/CCT/docs/campagna/una-storia-di-ceneri/atlante/h_testadimorto/</guid>
+      <description>Volta Testadimorto # Sita sotto Palazzo Lungacro, ora ospita il QG delle Mantidi Rosse e delle Vergini Grigie. Palazzo Lungacro stesso è diventato la caserma delle vergini Grigie (le Mantidi Rosse ufficialmente non sono a Korvosa&amp;hellip;)
+Prima dell&amp;rsquo;avvento della Regina, Palazzo Lungacro era la sede del tribunale e la Volta Testadimorto la prigione per i criminali più pericolosi.
+La Società Cerulea conosce un accesso segreto a Volta Testadimorto, grazie ad una collaborazione con un gruppo di Derro (più intraprendenti di altri) che si sono particolarmente avvicinati alla superficie&amp;hellip;</description>
     </item>
     
     <item>
